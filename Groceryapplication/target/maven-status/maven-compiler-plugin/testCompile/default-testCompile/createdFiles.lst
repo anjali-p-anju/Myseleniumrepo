@@ -1,0 +1,8 @@
+testscript\Hometest.class
+testscript\Logintest.class
+testscript\Managenewstest.class
+automationbasis\Basedemo.class
+automationbasis\Testngbase.class
+testscript\Adminusertest.class
+reportgeneration\Listener.class
+retry\Retry.class
